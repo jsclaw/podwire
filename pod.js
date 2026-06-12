@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * pod.js — give an autonomous agent authenticated read/write on a Solid pod.
  *
