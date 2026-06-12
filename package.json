@@ -1,6 +1,6 @@
 {
   "name": "podwire",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wire an autonomous agent to a Solid pod — NIP-98 authenticated read/write with the agent's own key.",
   "type": "module",
   "bin": {
