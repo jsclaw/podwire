@@ -1,0 +1,21 @@
+{
+  "name": "podwire",
+  "version": "0.0.1",
+  "description": "Wire an autonomous agent to a Solid pod — NIP-98 authenticated read/write with the agent's own key.",
+  "type": "module",
+  "bin": {
+    "podwire": "pod.js"
+  },
+  "files": [
+    "pod.js",
+    "SKILL.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "@noble/curves": "^1.6.0",
+    "@noble/hashes": "^1.5.0"
+  }
+}
